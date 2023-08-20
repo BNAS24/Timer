@@ -1,2 +1,2 @@
 # Timer
-Created with CodeSandbox
+A simple timer created with React.
